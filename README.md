@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubham-singh-v
-- 👀 I’m interested in create worldclass design with using technology like react, wordpress, shopify, and custom code.
+- 👀 I’m interested in create worldclass website design with using technology like react, wordpress, shopify, and custom code.
 - 🌱 I’m currently learning java and react.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
